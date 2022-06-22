@@ -2,7 +2,7 @@
 // 2 types of conversion 1.Implicit Conversion(automatic type conversion) 2.Explicit Conversion(manual type conversion)
 
 //Let start with Implicit Conversion (:
-//Numeric  string used with + gives an string type 
+//Numeric  string used with + gives an string type.
 
 let numeric1 ;
 numeric1 ='50'+ 100
