@@ -1,4 +1,4 @@
-//In programming, type conversion is the process of converting data of one type to another
+//In programming, type conversion is the process of converting data of one type to another  'HAPPY LEARNING :)'
 // 2 types of conversion 1.Implicit Conversion(automatic type conversion) 2.Explicit Conversion(manual type conversion)
 
 //Let start with Implicit Conversion (:
@@ -133,3 +133,5 @@ const num9 =Boolean('12345')
 const num10 =Boolean(123)
 console.log(num9)
 console.log(num10)
+
+// THANK YOU FOR YOUR VISIT :)

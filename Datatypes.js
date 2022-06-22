@@ -1,4 +1,4 @@
-// There are 2 types in data types in JS  1.primitive 2.Non primitive
+// There are 2 types in data types in JS  1.primitive 2.Non primitive   'HAPPY LEARNING :)'
 //1. .primitive data types (primitive data types are a set of basic data types from which all other data types are constructed)
 
 //String
@@ -35,23 +35,4 @@ data10 =new Array(['sai',10],['anriya',25])
 console.log(typeof(data9))
 console.log(typeof(data10))
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// THANK YOU FOR YOUR VISIT :)
