@@ -2,7 +2,7 @@
 //3 ways we can declare a variable in JS
 //1. var// (not a block scope) 2.let(it is a block scope) 3.const(it is a block scope)
 
-//Declaration 
+//Declaration ; 
 var dec1 ;
 // Initialization
 var dec1 ='srini'
